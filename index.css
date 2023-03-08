@@ -1,0 +1,37 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+#links:hover{
+    transition: 0.5s;
+    color: red;
+    text-decoration: underline;
+}
+#links{
+    color: rgb(41, 93, 152);
+}
+.card{
+    border: 0px;
+}
+.img1:hover{
+    transition: 0.3s;
+   background-color: grey;
+}
+.a1:hover{
+    transition: 0.5s;
+    color: red;
+    text-decoration: underline;
+}
+/* .vertical line{
+    width: 1px;
+    height: 150px;
+    background-color: silver;
+} */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+button:hover{
+color: red;
+transition: 0.3s;
+}
